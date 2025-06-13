@@ -16,8 +16,8 @@ This SQL-based project models a real-world scenario where:
 
 The database consists of the following tables:
 
-### 1. `Employee`
-Stores employee details.
+
+
 ![image](https://github.com/user-attachments/assets/b273e88b-9c54-4264-9855-adb45c24e775)
 
 
